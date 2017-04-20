@@ -1,0 +1,24 @@
+{
+  "name": "launchdarkly-js-client",
+  "description": "LaunchDarkly SDK for JavaScript",
+  "main": "src",
+  "authors": [
+    "LaunchDarkly <team@launchdarkly.com>"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "launchdarkly"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
