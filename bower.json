@@ -1,7 +1,7 @@
 {
   "name": "launchdarkly-js-client",
   "description": "LaunchDarkly SDK for JavaScript",
-  "main": "src",
+  "main": "dist/ldclient.js",
   "authors": [
     "LaunchDarkly <team@launchdarkly.com>"
   ],
